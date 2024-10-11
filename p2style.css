@@ -14,7 +14,7 @@ color:rgb(17, 18, 18);
 #header{
     width: 100%;
     height: 100vh;
-    background-image: url(portflomyimg4.jpg);
+    background-image: url(portflomyimg6.jpg);
     background-size: cover;
     background-position: center;
     
@@ -275,7 +275,7 @@ nav .fa-sharp{
 
 @media only screen and (max-width:600px){
     #header{
-        background-image: url(portflomyimg4.jpg);
+        background-image: url(portflomyimg6.jpg);
     }
     .header-text{
         margin-top: 100%;
