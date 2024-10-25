@@ -281,6 +281,7 @@ nav .fa-sharp{
 @media only screen and (max-width:600px){
     #header{
         background-image: url(portflomyimg6.jpg);
+        width:max-width;
     }
     .header-text{
         margin-top: 100%;
